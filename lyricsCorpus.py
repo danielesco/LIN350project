@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  9 16:54:41 2019
-@author: ZeyPit
-"""
+
 import billboard
 import pandas as pd
 import time
